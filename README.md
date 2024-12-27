@@ -74,7 +74,7 @@ This STM32H743ZI Nucleo-144 project measures temperature using a thermistor and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Airlectric/Auto_Temp_Regulator.git
+   git clone https://github.com/Fiador-Fedor/Auto_Temperature_Regulator.git
 
 
 ## Usage
